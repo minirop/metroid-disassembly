@@ -29,7 +29,7 @@
 ;++++----- Lower nybble of mapper number
 ;
 ;Byte 6.
-.byte $11                       ;No battery backed up RAM, MMC1 mapper, horizontal mirroring.
+.byte $10                       ;No battery backed up RAM, MMC1 mapper, horizontal mirroring.
 
 ;----------------------------------------------------------------------------------------------------
 
